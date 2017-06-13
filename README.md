@@ -1,0 +1,2 @@
+# CourseChoosing
+非常不sophisticated的选课系统
